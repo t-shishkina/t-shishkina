@@ -32,4 +32,3 @@ I spent 10+ years at **Hewlett Packard Enterprise**, where I led marketing opera
 * **Remote Veteran:** I've been working in distributed teams since 2020 and believe it’s the best way to build global products.
 
 ---
-**Why am I on GitHub?** I believe the best marketing happens where the developers are. I use this space to version-control my strategy notes and host technical content archives.
